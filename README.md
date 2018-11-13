@@ -1,7 +1,9 @@
 # Modulo-de-Tesoreria
 
 Inicio de sesión
+
 user : jdalava
+
 password: 123456
 
 Phpmyadmin como gestor de base de datos
