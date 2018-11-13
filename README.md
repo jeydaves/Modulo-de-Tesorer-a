@@ -7,4 +7,4 @@ jdalava
 
 Phpmyadmin como gestor de base de datos
 
-Importar el archivo simpleinvoice, en una base de datos con el mismo nombre
+Importar el archivo simple_invoice, en una base de datos con el mismo nombre
