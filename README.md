@@ -1,9 +1,8 @@
 # Modulo-de-Tesoreria
 
-Clave de admin
-
-jdalava
-123456
+Inicio de sesión
+user : jdalava
+password: 123456
 
 Phpmyadmin como gestor de base de datos
 
